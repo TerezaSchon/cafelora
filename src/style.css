@@ -300,3 +300,10 @@ nav a:hover {
     text-align: center;
   }
 }
+
+.description {
+  padding: 44rem 3rem;
+  padding-bottom: auto;
+  font-size: 2.5rem;
+  position: relative;
+}
